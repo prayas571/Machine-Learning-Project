@@ -140,5 +140,5 @@ Aspiring AI Developer with a strong foundation in Data Analysis, Machine Learnin
 
 ---
 
-## ⭐ If you like this project, don’t forget to give it a star on GitHub!
+
 
